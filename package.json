@@ -1,0 +1,17 @@
+{
+  "name": "proyecto-routing-node",
+  "version": "1.0.0",
+  "description": "Ejemplo de routing básico con Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.2",
+    "open": "^8.4.0"
+  }
+}
